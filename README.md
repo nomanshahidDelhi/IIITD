@@ -6,10 +6,10 @@ Approach Followed:
 
 2. We install the twitter libraries as:
 
-$ python setup.py build     
-$ python setup.py install
+  $ python setup.py build     
+  $ python setup.py install
 
 
-The access tokens generated as above we use in our program IIITDtwitter.py file.
+3. The access tokens generated as above we use in our program IIITDtwitter.py file.
 
 IIITDtwitter.py file acess 
