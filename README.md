@@ -1,5 +1,4 @@
-Approach Followed:
---------------------
+
 
 1. First we create a twitter API by creating a twitter account and logging into http://apps.twitter.com. Here we generate an access token to our API.
 
