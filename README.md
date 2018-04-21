@@ -12,4 +12,6 @@ Approach Followed:
 
 3. The access tokens generated as above we use in our program IIITDtwitter.py file.
 
-IIITDtwitter.py file acess 
+4. We run IIITDtwitter.py for getting 10000 tweets into mysql database.
+
+5. Now to get the news from a news API we create an account over https://newsapi.org/ to get the API key and use it in       file to get      the news.
